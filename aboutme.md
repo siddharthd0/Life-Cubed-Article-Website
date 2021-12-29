@@ -15,4 +15,5 @@ If you would like to follow me on any form of media, below are my links.
 - [Medium](https://siddharthduggal.medium.com)
 - [LinkedIn](google.com)
 - [Github](github.com/siddharthd0)
+
 Contact me at <ace@aprim.xyz> 

@@ -9,7 +9,7 @@
 title: Life Cubed
 
 # Your name to show in the footer
-author: Host: Siddharth Duggal
+author: Siddharth Duggal
 
 # --- List of links in the navigation bar --- #
 
@@ -41,11 +41,11 @@ round-avatar: true
 social-network-links:
   email: "ace@aprim.xyz"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
- # facebook: deanattali
+  facebook: deanattali
   github: siddharthd0
-#  twitter: daattali
- # patreon: DeanAttali
-#  youtube: c/daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
   medium: siddharthduggal
 #  reddit: yourname
 #  linkedin: daattali
@@ -80,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "lifecubed.today"
+url-pretty: "https://www.lifecubed.today"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

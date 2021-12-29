@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the Host
+subtitle: Siddharth Duggal
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey! Thank you so much for checking out my podcast, I really appreciate it! If you would like to get to know me a little better, feel free to continue reading.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### About Me
 
-What else do you need?
+I'm currently a junior in high school, aspiring to make a positive impact in peoples lifes.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Links
+If you would like to follow me on any form of media, below are my links.
+- [Medium](https://siddharthduggal.medium.com)
+- [LinkedIn](google.com)
+- [Github](github.com/siddharthd0)
+Contact me at <ace@aprim.xyz> 

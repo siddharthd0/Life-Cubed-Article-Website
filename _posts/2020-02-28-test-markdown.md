@@ -4,12 +4,11 @@ title: Sample blog post
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [season 1]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
+T
 **Here is some bold text**
 
 ## Here is a secondary heading
@@ -25,9 +24,9 @@ Here's a useless table:
 
 <iframe src="https://open.spotify.com/embed/track/1dmES1X8l1AnFBy2gR3wYA" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media" data-external="1"></iframe>
 
+## Latest Podcast:
 
-
-<iframe src="https://open.spotify.com/embed/show/3SLXFJLpNykW0js4RidYIJ" width="100%" height="380" frameBorder="1" allowtransparency="true" allow="encrypted-media" data-external="1"></iframe>
+<iframe src="https://open.spotify.com/embed/show/3SLXFJLpNykW0js4RidYIJ" width="100%" height="200" frameBorder="0" allowtransparency="true" allow="encrypted-media" data-external="1"></iframe>
 
 
 How about a yummy crepe?

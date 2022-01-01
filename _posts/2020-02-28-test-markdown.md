@@ -26,6 +26,10 @@ Here's a useless table:
 <iframe src="https://open.spotify.com/embed/track/1dmES1X8l1AnFBy2gR3wYA" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media" data-external="1"></iframe>
 
 
+
+<iframe src="https://open.spotify.com/embed/show/3SLXFJLpNykW0js4RidYIJ" width="100%" height="380" frameBorder="1" allowtransparency="true" allow="encrypted-media" data-external="1"></iframe>
+
+
 How about a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)

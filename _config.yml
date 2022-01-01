@@ -14,11 +14,12 @@ author: Siddharth Duggal
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "home"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Past Podcasts:
+    - Season 1: "https://beautifuljekyll.com"
+  #---  - Season 2: "insert linkl here" ---#
+# ---   Author's home: "https://deanattali.com" --- #
 
 # --- Logo --- #
 
@@ -41,11 +42,11 @@ round-avatar: true
 social-network-links:
   email: "ace@aprim.xyz"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+ # facebook: deanattali
   github: siddharthd0
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  twitter: daattali
+ # patreon: DeanAttali
+#  youtube: c/daattali
   medium: siddharthduggal
 #  reddit: yourname
 #  linkedin: daattali

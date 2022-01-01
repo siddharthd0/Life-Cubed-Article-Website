@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Failure is Essential to Life
-subtitle: Episode 1, Season 1.
-tags: [season 1]
+title: Sample blog post
+subtitle: Each post also has a subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
 comments: true
 ---
 

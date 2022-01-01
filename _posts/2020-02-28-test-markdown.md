@@ -23,6 +23,8 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/3uYm4MtU6jUQft2DtGqEoZ?si=5de0896a1d08471a)
+
 
 How about a yummy crepe?
 

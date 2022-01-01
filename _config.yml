@@ -14,10 +14,9 @@ author: Siddharth Duggal
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "https://lifecubed.today"
   About Me: "aboutme"
-  Past Podcasts:
-    - Season 1: "https://beautifuljekyll.com"
+  Past Podcasts: "https://lifecubed.today/tags/"
   #---  - Season 2: "insert linkl here" ---#
 # ---   Author's home: "https://deanattali.com" --- #
 

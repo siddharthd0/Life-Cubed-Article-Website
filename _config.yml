@@ -95,7 +95,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "LifeCubed,Life Cubed, Podcast, Good life, Positive Life, Life Cubed Podcast"
 
 # --- Colours / background image --- #
 
@@ -156,7 +156,7 @@ footer-hover-col: "#0085A1"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "lifecubed"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
